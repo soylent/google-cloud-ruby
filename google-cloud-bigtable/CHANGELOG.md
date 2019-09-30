@@ -1,5 +1,11 @@
 # Release History
 
+### 0.6.2 / 2019-09-30
+
+#### Documentation
+
+* Update low-level IAM Policy class description and sample code
+
 ### 0.6.1 / 2019-09-05
 
 #### Features

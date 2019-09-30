@@ -1,5 +1,11 @@
 # Release History
 
+### 0.3.0 / 2019-09-30
+
+#### Features
+
+* search_hashes now requires the thread_types argument
+
 ### 0.2.1 / 2019-08-23
 
 #### Documentation
